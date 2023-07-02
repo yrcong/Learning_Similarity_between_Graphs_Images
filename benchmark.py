@@ -138,7 +138,7 @@ def get_args_parser():
 
     # dataset parameters
     parser.add_argument('--dataset', default='vg')
-    parser.add_argument('--img_folder', default='/home/cong/Dokumente/tmp/data/visualgenome/images/', type=str,
+    parser.add_argument('--img_folder', default='data/vg/images/', type=str,
                         help="image data folder")
     parser.add_argument('--prediction', type=str, help="the prediction results of scene graph generation methods")
 
