@@ -1,4 +1,4 @@
-# Learning_Similarity_between_Graphs_Images
+# Learning Similarity between Scene Graphs and Images
 PyTorch Implementation of the Paper [**Learning Similarity between Scene Graphs and Images with Transformers**](https://arxiv.org/abs/2304.00590).
 
 The project page is [**AVAILABLE**](https://yrcong.github.io/gicon/)!
