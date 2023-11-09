@@ -22,7 +22,7 @@ a) Download the the images of Visual Genome [Part1](https://cs.stanford.edu/peop
 
 b) Download the annotations of [VG (in COCO-format)](https://drive.google.com/file/d/1aGwEu392DiECGdvwaYr-LgqGLmWhn8yD/view?usp=sharing) and unzip it in the ```data/``` forder.
 
-c) Download the pretrained model [location_bound](https://cloud.tnt.uni-hannover.de/index.php/s/RHRbbrPMDboFbKF) and [location_free](https://cloud.tnt.uni-hannover.de/index.php/s/EdKTbTCLCKbPNoS) and put the checkpoints under ```ckpt/```.
+c) Download the pretrained model [location_bound](https://cloud.tnt.uni-hannover.de/index.php/s/WXkN8Nf4R4mpmTe) and [location_free](https://cloud.tnt.uni-hannover.de/index.php/s/296NnSaEzxaPa32) and put the checkpoints under ```ckpt/```.
 
 # 3. TODO: OpenImages
 # 4. Benchmarking
